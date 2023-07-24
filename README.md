@@ -1,16 +1,13 @@
-### Sejam muito bem vindos!!!
-
-<div style="display: inline_block"><br>
-  <p align="center">
-  <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  </p>      
-  </div>
-  
-  ##
-<div>
-  <p align=center>
-  <a href = "mailto:tauanesantoscustodio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tauane-cust%C3%B3dio-6339b321a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-</div>
+## Oii, muito prazer, meu nome é Tauane, seja bem-vindo ao meu GitHub!🙃
+Tenho 19 anos e vi na programação algo que nunca vi antes.  
+Na escola eu era apaixonada por Matemática, perdia horas aplicando fórmulas para aprende-lás, mas ao mesmo tempo a arte me encatava, desenhar era um dos meus passatempos.  
+Pensei em muitas profissões... Ilustradora, Designer, Professora de matemática, Engenheira...  
+Mas nenhuma delas realmente me preenchia, ou muita razão ou muito abstrato. Até um amigo me falar sobre programação.... comecei a pesquisar e a ficar horas em frente ao computador testando e criando coisas, então resolvi realmente me dedicar aos estudos e ser programadora!  
+Aqui no Git Hub e no [Linkedin](www.linkedin.com/in/tauanecustodio) vou documentar minha jornada. Espero que se sintam inspirados!  
+*** 
+#### Metas: 
+- [ ] Escrever markdown com fluidez;
+- [ ] Finalizar - Curso de GIT e GITHUB - Gustavo Guanabara;
+- [ ] Usar GIT e GITHUB com fluidez;
+- [ ] Finalizar - Curso de algoritmo - Gustavo Guanabara;
+- [ ] Finalizar - Curso HTML5 e CSS3 - Gustavo Guanabara;
