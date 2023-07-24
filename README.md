@@ -28,7 +28,3 @@ Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no 
 - [ ] Usar GIT e GITHUB com fluidez;
 - [ ] Finalizar - Curso de algoritmo - Gustavo Guanabara;
 - [ ] Finalizar - Curso HTML5 e CSS3 - Gustavo Guanabara;
-
----
-
-<img alt="GitHub Streak" width="425" src="https://github-readme-streak-stats.herokuapp.com?user=TauaneCustodio&theme=github-dark-blue&exclude_days=Sun%2CSat" /> <img alt="GitHub Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=TauaneCustodio&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
