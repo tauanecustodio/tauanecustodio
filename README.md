@@ -21,10 +21,3 @@ Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no 
   </p>  
   
 --- 
-
-#### 🎯Metas: 
-- [x] Escrever markdown com fluidez;
-- [ ] Finalizar - Curso de GIT e GITHUB - Gustavo Guanabara;
-- [x] Usar GIT e GITHUB com fluidez;
-- [ ] Finalizar - Curso de algoritmo - Gustavo Guanabara;
-- [ ] Finalizar - Curso HTML5 e CSS3 - Gustavo Guanabara;
