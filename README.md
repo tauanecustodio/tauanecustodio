@@ -5,10 +5,10 @@
 - ✌🏻Utilizo o _Visual Studio Code_.
 - 🌐Aqui você encontrará muitos projetos e estudos que faço.
 #### 👻Sobre mim:
-Na escola eu era apaixonada por Matemática, perdia horas aplicando fórmulas para aprende-lás. Ao mesmo tempo a arte me encatava, desenhar era um dos meus passatempos. Pensei em muitas profissões... Ilustradora, Designer, Professora de matemática, Engenheira... 
-Mas nenhuma delas realmente me preenchia, ou tudo parecia muito racional ou muito abstrato.  
+Na escola eu era apaixonada por Matemática, perdia horas aplicando fórmulas para as aprender. Ao mesmo tempo, a arte me encantava, desenhar era um dos meus passatempos. Pensei em muitas profissões... Ilustradora, designer, professora de matemática, engenheira... 
+Mas nenhuma delas realmente me preenchia, ou tudo parecia muito racional, ou muito abstrato.  
 
-Até um amigo me falar sobre programação.... comecei a pesquisar e a ficar horas em frente ao computador testando e criando coisas, encontrei o equilibrio perfeito para minhas afinidades, vi na programação algo que nunca vi antes, então resolvi realmente me dedicar aos estudos e me tornar uma programadora!  
+Até um amigo me falar sobre programação... comecei a pesquisar e a ficar horas em frente ao computador testando e criando coisas, encontrei o equilíbrio perfeito para minhas afinidades, vi na programação algo que nunca vi antes, então resolvi realmente me dedicar aos estudos e me tornar uma programadora!  
 
 Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no [Linkedin](https://www.linkedin.com/in/tauanecustodio) vou documentar minha jornada. Espero que se sintam inspirados!  
 ***  
