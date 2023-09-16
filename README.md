@@ -12,6 +12,7 @@ Até um amigo me falar sobre programação... comecei a pesquisar e a ficar hora
 
 Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no [Linkedin](https://www.linkedin.com/in/tauanecustodio) vou documentar minha jornada. Espero que se sintam inspirados!  
 ***  
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
   <img  src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   <img  src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -21,3 +22,10 @@ Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no 
   </p>  
   
 --- 
+<p align="center">
+  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauaneCustodio&theme=blue-green"/>
