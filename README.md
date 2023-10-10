@@ -1,9 +1,7 @@
 ## Oii, muito prazer, meu nome é Tauane, seja bem-vindo ao meu GitHub!🙃
-> Atualmente estudo Algoritmos, Lógica de programação e Portugol.
-- 💻Curso que estou estudando: [Algoritmos - Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/).
-- 📔[Repositório que estou trabalhando](https://github.com/TauaneCustodio/Algoritmos_CursoEmVideo).
-- ✌🏻Utilizo o _Visual Studio Code_.
-- 🌐Aqui você encontrará muitos projetos e estudos que faço.
+> Atualmente estudo HTML e CSS.
+- 💻 Utilizo o _Visual Studio Code_.
+- 🌐 Aqui você encontrará muitos projetos e estudos que faço.
 #### 👻Sobre mim:
 Na escola eu era apaixonada por Matemática, perdia horas aplicando fórmulas para as aprender. Ao mesmo tempo, a arte me encantava, desenhar era um dos meus passatempos. Pensei em muitas profissões... Ilustradora, designer, professora de matemática, engenheira... 
 Mas nenhuma delas realmente me preenchia, ou tudo parecia muito racional, ou muito abstrato.  
