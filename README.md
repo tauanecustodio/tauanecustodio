@@ -8,7 +8,6 @@ Mas nenhuma delas realmente me preenchia, ou tudo parecia muito racional, ou mui
 
 Até um amigo me falar sobre programação... comecei a pesquisar e a ficar horas em frente ao computador testando e criando coisas, encontrei o equilíbrio perfeito para minhas afinidades, vi na programação algo que nunca vi antes, então resolvi realmente me dedicar aos estudos e me tornar uma programadora!  
 
-Tenho apenas 19 anos e uma longa jornada a ser percorrida. Aqui no Git Hub e no [Linkedin](https://www.linkedin.com/in/tauanecustodio) vou documentar minha jornada. Espero que se sintam inspirados!  
 ***  
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
