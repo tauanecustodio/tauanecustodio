@@ -1,4 +1,3 @@
-## Oii, muito prazer, meu nome é Tauane, seja bem-vindo ao meu GitHub!🙃
 <!-- 
   sites de badges:
 https://dev.to/envoy_/150-badges-for-github-pnk
