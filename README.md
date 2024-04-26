@@ -21,7 +21,10 @@ https://badgen.net/
 </p>
 
 ---
+
+<!-- 
 <p align="center">
   <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauaneCustodio&theme=blue-green"/>
   <img width="480px" src="https://github-readme-stats.vercel.app/api?username=TauaneCustodio&theme=blue-green"/>
 </p>
+-->
