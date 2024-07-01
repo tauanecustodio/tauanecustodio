@@ -6,7 +6,7 @@ https://badgen.net/
 https://devicon.dev/
 -->
 
-<img src="gif-readme.gif" width="512px" align="right">  
+<img src="gif-readme.gif" width="412px" align="right">  
 
 ### 🔤Tech
 ![logo html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
