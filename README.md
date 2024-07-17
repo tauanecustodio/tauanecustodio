@@ -25,6 +25,12 @@ https://devicon.dev/
 
 <br>
 
+<div align="center">
+  
+🧮 **"First, solve the problem. Then, write the code."** - John Johnson 🧮  
+
+</div>
+
 <div align="center">  
 <!--
 repositório - stats
