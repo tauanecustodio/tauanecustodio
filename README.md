@@ -21,7 +21,7 @@ https://devicon.dev/
 ![Figma](https://img.shields.io/badge/Figma-e90000?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)  
+![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Npm](https://img.shields.io/badge/-Npm-d90000?style=for-the-badge&logo=Npm&logoColor=white) 
 
 <br>
