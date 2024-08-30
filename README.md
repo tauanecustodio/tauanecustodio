@@ -29,6 +29,7 @@ https://devicon.dev/
 ⚔️ [CSS battle](https://cssbattle.dev/player/tauanecustodio)  
 🖼️ [Frontend Mentor](https://www.frontendmentor.io/profile/tauanecustodio)  
 🧊 [CodePen](https://codepen.io/Tauane-Custodio)  
+⚫[LeetCode](https://leetcode.com/u/Tauane/)
 
 <br>  
 
