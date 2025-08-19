@@ -26,9 +26,11 @@ https://devicon.dev/
 ![JavaScript](https://img.shields.io/badge/JavaScript-e9e900?style=for-the-badge&logo=javascript&logoColor=000000)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+<!-- 
 #### 🌱 Currently Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+-->
 
 ### ⚙️ Tools I Use
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
